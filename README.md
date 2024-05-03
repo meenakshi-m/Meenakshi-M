@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png)
 
 <h1 align="center">Hi 👋, I'm Meenakshi M</h1>
 <h3 align="center">A passionate software developer from India</h3>
