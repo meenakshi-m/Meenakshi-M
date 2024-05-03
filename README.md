@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meenakshi M</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/3AyY.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F727823989774806361%2F&psig=AOvVaw3Ahg0Bhc9RZcv9PTlwOjJu&ust=1714832004890000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjluqOV1fGFAxX6T2wGHSU5AIkQjRx6BAgAEBU)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi-m&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshi-m" /> </p>
 
